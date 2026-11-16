@@ -1,0 +1,7 @@
+Test Time: 2026-06-15 10:11:02
+Samples: 182
+RMSE: 1.3765
+Rp: 0.8023
+MAE: 1.0588
+SD: 1.3722
+Models: affinity_gat_model_19_0.pt, affinity_gat_model_19_1.pt, affinity_gat_model_19_2.pt
