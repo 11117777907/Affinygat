@@ -59,7 +59,7 @@ AffinyGAT/
 ### 3.1 Clone the repository
 
 ```bash
-git clone https://github.com/<USERNAME>/AffinyGAT.git
+git clone https://github.com/<11117777907>/AffinyGAT.git
 cd AffinyGAT
 ```
 
